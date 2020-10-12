@@ -1,0 +1,6 @@
+Felippe Rodrigues e Vitor Safinao
+
+Professor, não tivemos sucesso ao consumir a API no Android Studio mas criamos e testamos pelo Postman como nas imagens anexadas.
+
+Obrigado pela atenção.
+
